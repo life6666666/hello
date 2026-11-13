@@ -4,6 +4,7 @@ int main(){
     cout<< "Hello World";
     cout<< "Hello World";
 
-    cout<< "xiugai from 2";
+    cout<< "fenzhi2";
+	vector<int> v(5,2);
     return 0;
 }
